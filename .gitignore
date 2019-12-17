@@ -1,0 +1,5 @@
+/.vs
+/electron.package/bin/
+/electron.package/obj/
+/electron-starter/bin/
+/electron-starter/obj/
