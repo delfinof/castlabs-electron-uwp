@@ -72,7 +72,7 @@
     <Content Include="Images\Wide310x150Logo.scale-200.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="..\electron-v7.1.5-wvvmp-win32-ia32\**\*.*">
+    <Content Include="..\electron-v5.0.13-wvvmp-win32-ia32\**\*.*">
       <Link>electron\%(RecursiveDir)%(Filename)%(Extension)</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>True</CopyToPublishDirectory>
